@@ -7,7 +7,7 @@
 </head>
 <body>
   <h1 class="text-3xl font-bold bg-slate-500">
-   Hi there! This is a test page.
+ <?php echo "Hi there!"; ?>
   </h1>
 </body>
 </html>
