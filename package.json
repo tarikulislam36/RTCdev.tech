@@ -1,0 +1,19 @@
+{
+  "name": "rtcdev.tech",
+  "version": "1.0.0",
+  "description": "This repository showcases my portfolio as a software developer and my personal journey",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarikulislam36/RTCdev.tech.git"
+  },
+  "author": "Tarikul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tarikulislam36/RTCdev.tech/issues"
+  },
+  "homepage": "https://github.com/tarikulislam36/RTCdev.tech#readme"
+}
